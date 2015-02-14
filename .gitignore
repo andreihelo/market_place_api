@@ -25,3 +25,6 @@ doc/
 # Ignore POW configuration to use RVM
 .powrc
 .rvmrc
+
+# Ignore RubyMine directory
+.idea/
